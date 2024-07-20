@@ -49,5 +49,7 @@ Each layer of the application has corresponding test projects, showcasing the us
 I'm eager to discuss how my expertise can contribute to your next project. Feel free to reach out to me via LinkedIn or email to explore potential collaborations.
 
 Abhi
-https://www.linkedin.com/in/abhijeetblr/
+
+https://www.linkedin.com/in/abhijeetblr
+
 https://stackoverflow.com/users/1431250/abhijeet
